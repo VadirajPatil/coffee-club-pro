@@ -18,5 +18,8 @@
     .box3{
         margin:auto;
     }
+    .d-block{
+        height: 50vh;
+    }
 
 }
